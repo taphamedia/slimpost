@@ -20,7 +20,7 @@
 ###Installation
 1. Extract content of ZIP archive from GitHub into theme directory: <code>/content/themes/slimpost</code>.
 2. Restart **Ghost** instance.
-3. Sign in to **Ghost Admin**, then go to **Settings → General** and select **cameraman** in themes list.
+3. Sign in to **Ghost Admin**, then go to **Settings → General** and select **slimpost** in themes list.
 
 ###Configuration
 
